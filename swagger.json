@@ -12,13 +12,13 @@
 
   "servers": [
     {
+      "url": "https://api-elgeladon-render.onrender.com/paletas",
+      "description": "API de produção render"
+    },     
+    {
       "url": "http://localhost:3000/paletas",
       "description": "API de teste"
-    }, 
-    {
-      "url": "https://api-elgeladon-blue.herokuapp.com/paletas",
-      "description": "API de produção"
-    }   
+    } 
   ],
 
   "paths": {
